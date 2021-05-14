@@ -3,7 +3,7 @@ package oauth2
 import (
 	"net/url"
 
-	"github.com/chanxuehong/wechat/oauth2"
+	"github.com/hyacinthus/wechat/oauth2"
 )
 
 var _ oauth2.Endpoint = (*Endpoint)(nil)
