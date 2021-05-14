@@ -3,7 +3,7 @@ package shakearound
 import (
 	"unsafe"
 
-	"github.com/chanxuehong/wechat/mp/core"
+	"github.com/hyacinthus/wechat/mp/core"
 )
 
 const (

@@ -2,3 +2,5 @@ github.com/chanxuehong/rand v0.0.0-20201110082127-2f19a1bdd973 h1:Js/7nHtkpvUW62
 github.com/chanxuehong/rand v0.0.0-20201110082127-2f19a1bdd973/go.mod h1:9+sJ9zvvkXC5sPjPEZM3Jpb9n2Q2VtcrGZly0UHYF5I=
 github.com/chanxuehong/util v0.0.0-20200304121633-ca8141845b13 h1:c1vUDbnwvu5d2ucfzXvMzBWzeu5IxPvtESOFPl3CieA=
 github.com/chanxuehong/util v0.0.0-20200304121633-ca8141845b13/go.mod h1:XEYt99iTxMqkv+gW85JX/DdUINHUe43Sbe5AtqSaDAQ=
+github.com/chanxuehong/wechat v0.0.0-20201110083048-0180211b69fd h1:TM3wjEWel4U31J72dlhnwCBqPC0+FA0Ejm2NCbn5a5U=
+github.com/chanxuehong/wechat v0.0.0-20201110083048-0180211b69fd/go.mod h1:/dvhOIRCjjiZu6NV0QTTiMcc5XwoORbxfDSsRY2IfaM=
